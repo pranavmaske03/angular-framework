@@ -1,0 +1,24 @@
+{
+    "batches"   : [
+        {
+            "Name" : "Pre-Placement Activity",
+            "Duration" : "4 months",
+            "Fees" : "19000"
+        },
+        {
+            "Name" : "Logic Building",
+            "Duration" : "4.5 months",
+            "Fees" : "19500"
+        },
+        {
+            "Name" : "Python Machine Learning",
+            "Duration" : "3 months",
+            "Fees" : "21000"
+        },
+        {
+            "Name" : "Linux System Programming",
+            "Duration" : "4 months",
+            "Fees" : "22000"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<h1>Select Your Batch</h1>
+
+<ul class="items">
+    <li *ngFor="let values of batches" (click)="onSelect(values)">
+        <span class="badge">{{values.id}}</span> {{values.name}}
+    </li>
+</ul>
